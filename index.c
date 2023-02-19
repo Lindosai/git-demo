@@ -1,5 +1,6 @@
 int main()
 {
+    printf("添加 index.c");
     return 1;
 }
 
